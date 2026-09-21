@@ -1,2 +1,3 @@
 # Gaspard-Omer-Nanjip
-Portfolio Data analyste IA et Automatisation
+Portfolio 
+Data analyste IA et Automatisation
